@@ -28,8 +28,4 @@
 > ### *"The best way to predict the future is to create it."*
 > — **Peter Drucker**
 
-<br>
 
-⭐ *Feel free to explore my repositories and connect for data science collaborations or opportunities!*
-
-</div>
